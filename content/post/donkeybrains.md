@@ -6,5 +6,7 @@ author = "jokarls"
 draft = false
 +++
 
-In 2015 when Garmin launched the Connect IQ platform, I was eager to try it out. Me and a friend started an ambitious app project and we knew that we need a build server of some sort, to make sure we didn't mess things up for eachother.Beeing a sowftware developer 
-A few years back I was trying out the connect 
+In 2015 when Garmin launched the Connect IQ platform, I was eager to try it out. Me and a friend started an ambitious app project and we knew that we need a build server of some sort, to make sure we didn't mess things up for eachother. The solution back then was an old laptop in his basement running a Jenkins server. Since then I've learned how to use Docker and while starting up a new app project, I thougth this would be a good time to set up a propper CI pipeline.
+
+
+Next section
