@@ -1,0 +1,21 @@
+baseURL = "https://jokarls.github.io"
+languageCode = "en-us"
+title = "Cycling and code"
+theme = "pixyll"
+contentdir = "content"
+publishdir = "public"
+builddrafts = true
+canonifyurls = true
+author = "Jonas Lundblad"
+disqusShortname = "jokarls"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  mainSections = ["post"]
+  google_analytics_id = "UA-172206777-1"
+  twitter_username = "jokarls"
+  github_username = "jokarls"
+  paginate = 5
