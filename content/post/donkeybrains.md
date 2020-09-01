@@ -1,5 +1,5 @@
 +++
-title = "Continious integration for Connect IQ apps with Docker and GitHub Workflows"
+title = "Continuous integration for Connect IQ apps with Docker and GitHub Workflows"
 date = 2020-07-06T16:47:26+02:00
 tags = ["docker", "connect iq", "garmin", "ci", "donkeybrains", "github"]
 author = "jokarls"
